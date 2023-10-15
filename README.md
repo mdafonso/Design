@@ -1,2 +1,2 @@
 # Designs
-Design feitos no Figma ou Canva
+Designs feitos no Figma ou Canva
