@@ -31,7 +31,7 @@ LINK: https://www.figma.com/proto/JiZxXpD6vDMLi0j4VFv70m/Projeto-de-Criatividade
 
 Para Navegar no aplicativo completo, acessar o link abaixo.
 
-LINK: Em desenvolvimento
+LINK: https://www.figma.com/file/opPnf5JWVx5v7CdPg3LXFT/Pilot?type=design&node-id=0%3A1&mode=dev&t=hPWF3JERa2ysH82A-1
 
 ![image](https://github.com/mdafonso/Design/assets/85906812/facb79a0-f30e-43a8-9664-da75d63671a4)
 
